@@ -1,15 +1,13 @@
 读书笔记，思考点滴
 
-**Experience**
---------------
+- Experience
 
-[YAHOO网站加速最佳实践][1]
-[一段代码理解Promise/Deferred模式][2]
+  - [YAHOO网站加速最佳实践][1]
+  - [一段代码理解Promise/Deferred模式][2]
 
-**Books**
----------
+- Books
 
-[《算法帝国》][3]
+  - [《算法帝国》][3]
 
 
   [1]: https://github.com/fwon/blog/issues/1
