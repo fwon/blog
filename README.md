@@ -5,7 +5,7 @@
   - [YAHOO网站加速最佳实践][1]
   - [一段代码理解Promise/Deferred模式][2]
   - [MutationObserver用法浅析][4]
-  - [属性系统][5]
+  - [属性模块][5]
 
 - Books
 
