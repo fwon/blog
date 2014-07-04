@@ -7,6 +7,7 @@
   - [MutationObserver用法浅析][4]
   - [属性模块][5]
   - [CustomEvent-传统DOM事件][6]
+  - [继承和原型链][7]
 - Books
 
   - [《算法帝国》][3]
@@ -18,3 +19,4 @@
   [4]: https://github.com/fwon/blog/issues/5
   [5]: https://github.com/fwon/blog/issues/6
   [6]: https://github.com/fwon/blog/issues/7
+  [7]: https://github.com/fwon/blog/issues/8
