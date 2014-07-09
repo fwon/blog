@@ -8,6 +8,7 @@
   - [属性模块][5]
   - [CustomEvent-传统DOM事件][6]
   - [继承和原型链][7]
+  - [正则表达式用法总结][8]
 - Books
 
   - [《算法帝国》][3]
@@ -20,3 +21,4 @@
   [5]: https://github.com/fwon/blog/issues/6
   [6]: https://github.com/fwon/blog/issues/7
   [7]: https://github.com/fwon/blog/issues/8
+  [8]: https://github.com/fwon/blog/issues/9
