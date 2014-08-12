@@ -12,9 +12,7 @@
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
 
 
-- 读书笔记
 
-
-- 生活学习
+- 读书
 
   - [我的豆瓣](http://www.douban.com/people/39652254/)
