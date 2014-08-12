@@ -1,6 +1,6 @@
 读书笔记，思考点滴
 
-- 编程
+- 编程相关
 
   - [YAHOO网站加速最佳实践](https://github.com/fwon/blog/issues/1)
   - [一段代码理解Promise/Deferred模式](https://github.com/fwon/blog/issues/2)
@@ -12,8 +12,9 @@
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
 
 
-- 读书
+- 读书笔记
+
+
+- 生活学习
 
   - [我的豆瓣](http://www.douban.com/people/39652254/)
-
-- 生活
