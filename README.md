@@ -11,10 +11,9 @@
   - [正则表达式用法总结](https://github.com/fwon/blog/issues/9)
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
 
-- 生活
-
 
 - 读书
 
-  - [《算法帝国》](http://linux.cn/article-3142-1.html?fromuid=1)
+  - [我的豆瓣](http://www.douban.com/people/39652254/)
 
+- 生活
