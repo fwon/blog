@@ -12,9 +12,9 @@
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
   - [Cookie知多少](https://github.com/fwon/blog/issues/11)
 
-- Node.js 番外篇
+- Node.js 札记
 
-  敬请期待...
+  Node.js概念篇
   
 - 读书
 
