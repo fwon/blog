@@ -10,8 +10,13 @@
   - [继承和原型链](https://github.com/fwon/blog/issues/8)
   - [正则表达式用法总结](https://github.com/fwon/blog/issues/9)
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
-  - [Cookie知多少](https://github.com/fwon/blog/issues/11)
 
+
+- 其他
+
+  - [Cookie知多少](https://github.com/fwon/blog/issues/11)  
+  - [由秒杀活动想到的](https://github.com/fwon/blog/issues/13)  
+  
 - Node.js 札记
 
   - [Node.js之session实践](https://github.com/fwon/blog/issues/12)
