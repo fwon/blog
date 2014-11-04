@@ -10,6 +10,7 @@
   - [继承和原型链](https://github.com/fwon/blog/issues/8)
   - [正则表达式用法总结](https://github.com/fwon/blog/issues/9)
   - [怎么在模块化项目中使用Mocha](https://github.com/fwon/blog/issues/10)
+  - [javascript常见设计模式一览](https://github.com/fwon/blog/issues/14)
 
 - 源码解析
   - [scrat.js](https://github.com/fwon/sources/blob/master/scrat.js)
