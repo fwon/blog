@@ -13,6 +13,7 @@
   - [javascript常见设计模式一览](https://github.com/fwon/blog/issues/14)
   - [Javascript Scoping and Hoisting](https://github.com/fwon/blog/issues/15)
   - [Grunt vs Gulp](https://github.com/fwon/blog/issues/16)
+  - [gulp + webpack 构建多页面前端项目](https://github.com/fwon/blog/issues/17)
 
 - 源码解析
   - [scrat.js](https://github.com/fwon/sources/blob/master/scrat.js)
