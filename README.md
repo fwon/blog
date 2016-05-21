@@ -1,7 +1,8 @@
 思考，记录。
 
-- 编程相关
-
+- 技术文章
+  - [Cookie知多少](https://github.com/fwon/blog/issues/11)  
+  - [由秒杀活动想到的](https://github.com/fwon/blog/issues/13)  
   - [YAHOO网站加速最佳实践](https://github.com/fwon/blog/issues/1)
   - [一段代码理解Promise/Deferred模式](https://github.com/fwon/blog/issues/2)
   - [MutationObserver用法浅析](https://github.com/fwon/blog/issues/5)
@@ -14,21 +15,15 @@
   - [Javascript Scoping and Hoisting](https://github.com/fwon/blog/issues/15)
   - [Grunt vs Gulp](https://github.com/fwon/blog/issues/16)
   - [gulp + webpack 构建多页面前端项目](https://github.com/fwon/blog/issues/17)
+  - [手机端调试利器 - 总结与实践](https://github.com/fwon/blog/issues/18)
 
 - 源码解析
   - [scrat.js](https://github.com/fwon/sources/blob/master/scrat.js)
   - [jsdeferred.js](https://github.com/fwon/sources/blob/master/jsdeferred.js)
   
-- 其他
-
-  - [Cookie知多少](https://github.com/fwon/blog/issues/11)  
-  - [由秒杀活动想到的](https://github.com/fwon/blog/issues/13)  
-  
 - Node.js 札记
 
   - [Node.js之session实践](https://github.com/fwon/blog/issues/12)
-
-  Node.js概念篇
   
 - 读书
 
