@@ -19,6 +19,7 @@
 
 - 从零开始开发一款H5小游戏系列文章
   - [(一)重温canvas的基础用法](https://github.com/fwon/blog/issues/19)
+  - [(二)创造游戏世界，启动发条](https://github.com/fwon/blog/issues/20)
   
 - 源码解析
   - [scrat.js](https://github.com/fwon/sources/blob/master/scrat.js)
