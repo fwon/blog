@@ -24,6 +24,11 @@
   - [(四)撞击吧粒子，炫酷技能的实现](https://github.com/fwon/blog/issues/22)
   - [(五)必要的包装，游戏规则和场景设计](https://github.com/fwon/blog/issues/23)
 
+- 细说Unicode
+  - [(一)Unicode初认识](https://github.com/fwon/blog/issues/24)
+  - [(二)Unicode与JavaScript的纠葛](https://github.com/fwon/blog/issues/25)
+  - [(三)Unicode 番外之附加字符](https://github.com/fwon/blog/issues/26)
+
 - 开源项目&工具
   - [gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) ：利用gulp和webpack开发多页面应用的例子
   - [blog-app](https://github.com/fwon/blog-app)：基于React-redux等技术栈的博客项目
