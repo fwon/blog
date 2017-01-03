@@ -1,6 +1,6 @@
 思考，记录。
 
-- 技术文章
+- 技术总结
   - [Cookie知多少](https://github.com/fwon/blog/issues/11)  
   - [由秒杀活动想到的](https://github.com/fwon/blog/issues/13)  
   - [YAHOO网站加速最佳实践](https://github.com/fwon/blog/issues/1)
@@ -23,7 +23,17 @@
   - [(三)攻守阵营，赋予粒子新的生命](https://github.com/fwon/blog/issues/21)
   - [(四)撞击吧粒子，炫酷技能的实现](https://github.com/fwon/blog/issues/22)
   - [(五)必要的包装，游戏规则和场景设计](https://github.com/fwon/blog/issues/23)
-  
+
+- 开源项目&工具
+  - [gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) ：利用gulp和webpack开发多页面应用的例子
+  - [blog-app](https://github.com/fwon/blog-app)：基于React-redux等技术栈的博客项目
+  - [Sinuous](https://github.com/fwon/Sinuous)：一款基于canvas的小游戏
+  - [m-console](https://github.com/fwon/m-console)：简单易用的手机调试log工具
+  - [emoji-painting](https://github.com/fwon/emoji-painting)：一个用于创作emoji画的小工具
+  - [zepto-sortable](https://github.com/fwon/zepto-sortable)：基于zepto的列表拖动排序工具
+  - [hightlight-for-Chrome](https://github.com/fwon/hightlight-for-Chrome)：代码高亮Chrome插件
+  - [color-picker](https://github.com/fwon/color-picker)：获取图片上的颜色值小工具
+
 - 源码解析
   - [scrat.js](https://github.com/fwon/sources/blob/master/scrat.js)
   - [jsdeferred.js](https://github.com/fwon/sources/blob/master/jsdeferred.js)
