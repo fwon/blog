@@ -31,7 +31,11 @@
   - [(二)Unicode与JavaScript的纠葛](https://github.com/fwon/blog/issues/25)
   - [(三)Unicode 番外之附加字符](https://github.com/fwon/blog/issues/26)
 
-
+- 有问必答
+  下面这些都是我平时看书或者看文章遇到的问题，一般都是比较基础但是容易遗忘的知识点，你也可能会在面试中碰到。
+  我会查阅一些资料并可能加上自己的理解，来记录这些问题。
+  
+  
 - 开源项目&工具
   - [gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) ：利用gulp和webpack开发多页面应用的例子
   - [blog-app](https://github.com/fwon/blog-app)：基于React-redux等技术栈的博客项目
