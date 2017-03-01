@@ -35,7 +35,15 @@
 
   下面这些都是我平时看书或者看文章遇到的问题，一般都是比较基础但是容易遗忘的知识点，你也可能会在面试中碰到。
   我会查阅一些资料并可能加上自己的理解，来记录这些问题。
-  
+  - [JavaScript怎么进行类型判断？](https://github.com/fwon/blog/issues/28)
+  - [JavaScript中的赋值和参数传递是值复制还是引用复制？](https://github.com/fwon/blog/issues/29)
+  - [0.1 + 0.2 == 0.3 ?](https://github.com/fwon/blog/issues/30)
+  - [JSON.stringify 和 toString 有什么区别？](https://github.com/fwon/blog/issues/31)
+  - [Math.floor 和 ~~ 作用一样吗？](https://github.com/fwon/blog/issues/32)
+  - [Number 和 parseInt 转化数值有何不同？](https://github.com/fwon/blog/issues/33)
+  - [为什么[] == ![] ?](https://github.com/fwon/blog/issues/34)
+  - [[] + {} 和 {} + []一样吗？](https://github.com/fwon/blog/issues/35)
+  - [nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/fwon/blog/issues/36)
   
 - 开源项目&工具
   - [gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) ：利用gulp和webpack开发多页面应用的例子
