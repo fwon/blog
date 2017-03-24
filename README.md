@@ -32,9 +32,6 @@
   - [(三)Unicode 番外之附加字符](https://github.com/fwon/blog/issues/26)
 
 - 有问必答
-
-  > 下面这些都是我平时看书或者看文章遇到的问题，一般都是比较基础但是容易遗忘的知识点，你也可能会在面试中碰到。
-  我会查阅一些资料并可能加上自己的理解，来记录这些问题。
   - [JavaScript怎么进行类型判断？](https://github.com/fwon/blog/issues/28)
   - [JavaScript中的赋值和参数传递是值复制还是引用复制？](https://github.com/fwon/blog/issues/29)
   - [0.1 + 0.2 == 0.3 ?](https://github.com/fwon/blog/issues/30)
