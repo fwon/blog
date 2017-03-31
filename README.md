@@ -32,9 +32,6 @@
   - [(三)Unicode 番外之附加字符](https://github.com/fwon/blog/issues/26)
 
 - 有问必答
-
-  下面这些都是我平时看书或者看文章遇到的问题，一般都是比较基础但是容易遗忘的知识点，你也可能会在面试中碰到。
-  我会查阅一些资料并可能加上自己的理解，来记录这些问题。
   - [JavaScript怎么进行类型判断？](https://github.com/fwon/blog/issues/28)
   - [JavaScript中的赋值和参数传递是值复制还是引用复制？](https://github.com/fwon/blog/issues/29)
   - [0.1 + 0.2 == 0.3 ?](https://github.com/fwon/blog/issues/30)
@@ -46,6 +43,7 @@
   - [nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/fwon/blog/issues/36)
   
 - 开源项目&工具
+  - [electron-anyproxy](https://github.com/fwon/electron-anyproxy) ：Anyproxy 客户端，抓包和代理两不误
   - [gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) ：利用gulp和webpack开发多页面应用的例子
   - [blog-app](https://github.com/fwon/blog-app)：基于React-redux等技术栈的博客项目
   - [Sinuous](https://github.com/fwon/Sinuous)：一款基于canvas的小游戏
